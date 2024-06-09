@@ -1,0 +1,17 @@
+@media(max-width: 620px){
+    .cabecalho {
+        padding: 30px 0;
+    }
+    .personagemSlider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .btnSeta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+    .listaPersonagem {
+        height: 480px;
+    }
+}
